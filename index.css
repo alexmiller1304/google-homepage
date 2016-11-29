@@ -1,0 +1,15 @@
+#nav {
+  float: right;
+}
+
+#main {
+  text-align: center;
+}
+body {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  height: 20px;
+  width: 550px;
+  margin-left: auto;
+  margin-right: auto;
+}
